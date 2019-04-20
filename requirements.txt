@@ -56,5 +56,3 @@ widgetsnbextension==3.4.2
 bs4
 selenium
 hurry.filesize
-urllib
-argparse
